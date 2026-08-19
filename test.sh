@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Version from MAIN branch"
+echo "Version from CONFLICT branch"
 echo "End of script"
