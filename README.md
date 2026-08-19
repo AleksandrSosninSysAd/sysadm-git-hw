@@ -16,3 +16,8 @@ Ready Aleksandr Sosnin
 ## Задание 3: Работа с ветками и слияние
 **Выполнил:** Aleksandr Sosnin
 **Граф коммитов:** [Network graph](https://github.com/AleksandrSosninSysAd/sysadm-git-hw/network)
+
+---
+## Задание 4*: Разрешение конфликта слияния
+**Выполнил:** Aleksandr Sosnin
+**Граф коммитов:** [Network graph](https://github.com/AleksandrSosninSysAd/sysadm-git-hw/network)
