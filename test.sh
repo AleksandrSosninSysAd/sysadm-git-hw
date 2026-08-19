@@ -1,4 +1,3 @@
 #!/bin/bash
-echo "Test script v3"
-echo "New feature added"
-echo "Bug fixes applied"
+echo "Version from CONFLICT branch"
+echo "End of script"
